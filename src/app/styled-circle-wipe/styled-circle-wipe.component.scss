@@ -1,0 +1,12 @@
+div.wrapper{
+    position: absolute;
+    border-radius: 50%;
+    display: block;
+    width: 200px;
+    height: 200px;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0);
+    transition: all cubic-bezier(.17,.67,0,.97);
+
+}

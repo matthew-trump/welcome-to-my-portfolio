@@ -1,0 +1,3 @@
+<div class="wrapper" *ngIf="(wipeStage$|async) as stage"
+  [ngStyle]="{'background':stage.color,'transition-duration':stage.duration+'ms','width':getDiameter(stage.cover)+'px','height':getDiameter(stage.cover)+'px'}">
+</div>
