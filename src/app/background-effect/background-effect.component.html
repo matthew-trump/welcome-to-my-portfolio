@@ -1,0 +1,4 @@
+<styled-background [background]="backgroundColor">
+  <styled-circle-wipe [wipe$]="wipe$" (color)="setBackgroundColor($event)" (initiated)="wipeInitiated()">
+  </styled-circle-wipe>
+</styled-background>
