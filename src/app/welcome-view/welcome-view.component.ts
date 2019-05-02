@@ -80,7 +80,7 @@ export class WelcomeViewComponent implements OnInit, OnDestroy {
         showOverlayAfterWipe: true
       }
     ))
-    this.setCurrentStage(index);
+    //this.setCurrentStage(index);
   }
   setCurrentStage(index: number) {
     this.currentStageIndex = index;
@@ -91,6 +91,7 @@ export class WelcomeViewComponent implements OnInit, OnDestroy {
   }
 
   onAnimationEvent(event: AnimationEvent) {
+    /**
     const index = this.currentStageIndex;
     const showing = this.showingContent[this.stages[index].id];
     if (event.triggerName === 'titles' || event.triggerName === 'instructions') {
@@ -100,6 +101,7 @@ export class WelcomeViewComponent implements OnInit, OnDestroy {
         }
       }
     }
+     */
   }
   getTimeout(index: number): Function {
     return () => {
