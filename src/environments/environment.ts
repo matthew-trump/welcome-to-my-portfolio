@@ -25,8 +25,8 @@ export const environment = {
       color: '#FFFFFF',
       circularWipe: {
         welcome: {
-          initialBackgroundColor: '#FFFFFF',
-          finalBackgroundColor: '#000',
+          initialBackgroundColor: '#fff',
+          finalBackgroundColor: '#eeeeee',
           durationInMilliseconds: 1300
         },
       }
