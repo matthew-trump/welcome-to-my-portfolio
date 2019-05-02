@@ -126,9 +126,9 @@ export class StyledCircleWipeComponent implements OnInit, OnDestroy {
   }
 
   wipeStep(): number {
+
     this.wipeIndex += 1;
     const wipeStage = this.wipeStages[this.wipeIndex];
-
     this.color.emit(wipeStage.background ? this.currentWipe.finalBackgroundColor : this.currentWipe.initialBackgroundColor);
     this.initiated.emit(wipeStage.initiated);
 
