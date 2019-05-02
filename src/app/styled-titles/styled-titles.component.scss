@@ -1,35 +1,29 @@
 div{
-
-    color: #fff;
-        font-family:"CircularBold", sans-serif;
+    border: 5px solid #666;
+    background-color: #fff;
+    color: #333;
+    font-family:"Libre Baskerville", sans-serif;
     margin: 0 auto;
     text-align: center;
     position: relative;
     z-index: 99;
-    background-color: midnightblue;
+   
     padding: 3em;
 
     h1{ 
-        color: #fff;
-        font-family:"CircularBold", sans-serif;
+        font-weight: bold;
+        font-size: 2.3em;
         position: relative;
         text-align: center;
         margin: 0 auto 10px;
         @media screen and (min-width: 768px) {
             width: 400px;
         }
-        img{
-            display: inline-block;
-            width: 100%;
-            height: auto;
-        }
     }
 
     p{
-        color: #fff;
-        font-family:"CircularBold", sans-serif;
-        font-weight: bold;
-        font-size: 1.6rem;
+        margin-top: 2em;
+        font-size: 1.0rem;
         position: relative;
     }
     
