@@ -1,4 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
 import { StoreModule } from '@ngrx/store';
 
@@ -10,6 +11,7 @@ import { StyledBackgroundComponent } from './styled-background/styled-background
 
 import { BackgroundReducer } from './reducers';
 import { WelcomeViewComponent } from './welcome-view/welcome-view.component';
+import { StyledTitlesComponent } from './styled-titles/styled-titles.component';
 
 @NgModule({
   declarations: [
@@ -17,10 +19,12 @@ import { WelcomeViewComponent } from './welcome-view/welcome-view.component';
     BackgroundEffectComponent,
     StyledCircleWipeComponent,
     StyledBackgroundComponent,
-    WelcomeViewComponent
+    WelcomeViewComponent,
+    StyledTitlesComponent
   ],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
     AppRoutingModule,
     StoreModule.forRoot({
       background: BackgroundReducer
