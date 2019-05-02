@@ -1,0 +1,37 @@
+div{
+
+    color: #fff;
+        font-family:"CircularBold", sans-serif;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 99;
+    background-color: midnightblue;
+    padding: 3em;
+
+    h1{ 
+        color: #fff;
+        font-family:"CircularBold", sans-serif;
+        position: relative;
+        text-align: center;
+        margin: 0 auto 10px;
+        @media screen and (min-width: 768px) {
+            width: 400px;
+        }
+        img{
+            display: inline-block;
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    p{
+        color: #fff;
+        font-family:"CircularBold", sans-serif;
+        font-weight: bold;
+        font-size: 1.6rem;
+        position: relative;
+    }
+    
+  
+}
