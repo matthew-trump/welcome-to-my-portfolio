@@ -8,30 +8,38 @@ Many, but not all, of the projects come in pairs, that is a front-end Angular pr
 
 Moreover, many of the backend node express projects contain configurations and templates for deployment of the application to various cloud platforms, including [Amazon Web Services](https://aws.amazon.com/) and [Google Cloud Platform](https://cloud.google.com), both of which I've used extensively.
 
-## Project details
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+## Repositiories listed by type
 
-## Development server
+### Angular 2+ apps
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+*[Angular Authenticated](https://github.com/matthew-trump/angular-authenticated)
+*[Angular Database Manager](https://github.com/matthew-trump/angular-database-manager)
+*[Angular Firestore Auth](https://github.com/matthew-trump/angular-firestore-auth)
+*[Angular FX Lab](https://github.com/matthew-trump/angular-fx-lab)
+*[Angular-within-Angular](https://github.com/matthew-trump/angular-within-angular)
+*[Angular-within-Angular Inner App](https://github.com/matthew-trump/angular-within-angular-inner-app)
+*[Audio Recording Angular](https://github.com/matthew-trump/audio-recording-angular)
+*[Dialogflow Testing Tool](https://github.com/matthew-trump/dialogflow-testing-tool)
+*[Flight Tracker Admin](https://github.com/matthew-trump/flight-tracker-admin)
+*[Flight in the Sky](https://github.com/matthew-trump/flight-in-the-sky)
+*[JWT Minimalist Angular](https://github.com/matthew-trump/jwt-minimalist-angular)
+*[Speech Recognition Angular](https://github.com/matthew-trump/speech-recognition-angular)
+*[Speech Synthesis Angular](https://github.com/matthew-trump/speech-synthesis-angular)
+*[Welcome to My Portfolio](https://github.com/matthew-trump/welcome-to-my-portfolio)
 
-## Code scaffolding
+### Node Express apps
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+*[Actions on Google App Engine](https://github.com/matthew-trump/actions-on-google-app-engine)
+*[Audio Recording Node Express](https://github.com/matthew-trump/audio-recording-node-express)
+*[Dialogflow Artillery Delegate](https://github.com/matthew-trump/dialogflow-artillery-delegate)
+*[Dialogflow Surrogate](https://github.com/matthew-trump/dialogflow-surrogate)
+*[Flight Tracker Node Express](https://github.com/matthew-trump/flight-tracker-node-express)
+*[JWT Minimalist Node Express](https://github.com/matthew-trump/jwt-minimalist-node-express)
+*[Speech Recognition Node Express](https://github.com/matthew-trump/speech-recognition-node-express)
+*[Speech Synthesis Node Express](https://github.com/matthew-trump/speech-synthesis-node-express)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### AWS Templates
+*[AWS CloudFormation Quizzes Example](https://github.com/matthew-trump/aws-cloudformation-quizzes-example)
+*[AWS Lambda API Node](https://github.com/matthew-trump/aws-lambda-api-node)
+*[AWS Lambda API Python](https://github.com/matthew-trump/aws-lambda-api-python)
