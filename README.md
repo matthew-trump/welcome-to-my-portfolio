@@ -6,27 +6,27 @@ The projects include both front-end and back-end web software. All of the front-
 
 Many, but not all, of the projects come in pairs, that is a front-end Angular project that is designed to work specifically with a Node Express backend, and vice versa (although in many cases they could be used independently as well, in decoupled fashion).
 
-Moreover, many of the backend node express projects contain configurations and templates for deployment of the application to various cloud platforms, including [Amazon Web Services](https://aws.amazon.com/) and [Google Cloud Platform](https://cloud.google.com), both of which I've used extensively.
+Moreover, many of the backend node express projects contain configurations and templates for deployment of the application to various cloud platforms, including [Amazon Web Services](https://aws.amazon.com/å) and [Google Cloud Platform](https://cloud.google.com), both of which I've used extensively.
 
 
 ## Repositiories listed by type
 
 ### Angular 2+ apps
 
-1.[Angular Authenticated](https://github.com/matthew-trump/angular-authenticated)
-2.[Angular Database Manager](https://github.com/matthew-trump/angular-database-manager)
-3.[Angular Firestore Auth](https://github.com/matthew-trump/angular-firestore-auth)
-4.[Angular FX Lab](https://github.com/matthew-trump/angular-fx-lab)
-5.[Angular-within-Angular](https://github.com/matthew-trump/angular-within-angular)
-6.[Angular-within-Angular Inner App](https://github.com/matthew-trump/angular-within-angular-inner-app)
-7.[Audio Recording Angular](https://github.com/matthew-trump/audio-recording-angular)
-8.[Dialogflow Testing Tool](https://github.com/matthew-trump/dialogflow-testing-tool)
-9.[Flight Tracker Admin](https://github.com/matthew-trump/flight-tracker-admin)
-10.[Flight in the Sky](https://github.com/matthew-trump/flight-in-the-sky)
-11.[JWT Minimalist Angular](https://github.com/matthew-trump/jwt-minimalist-angular)
-12.[Speech Recognition Angular](https://github.com/matthew-trump/speech-recognition-angular)
-13.[Speech Synthesis Angular](https://github.com/matthew-trump/speech-synthesis-angular)
-*[Welcome to My Portfolio](https://github.com/matthew-trump/welcome-to-my-portfolio)
+1. [Angular Authenticated](https://github.com/matthew-trump/angular-authenticated)
+2. [Angular Database Manager](https://github.com/matthew-trump/angular-database-manager)
+3. [Angular Firestore Auth](https://github.com/matthew-trump/angular-firestore-auth)
+4. [Angular FX Lab](https://github.com/matthew-trump/angular-fx-lab)
+5. [Angular-within-Angular](https://github.com/matthew-trump/angular-within-angular)
+6. [Angular-within-Angular Inner App](https://github.com/matthew-trump/angular-within-angular-inner-app)
+7. [Audio Recording Angular](https://github.com/matthew-trump/audio-recording-angular)
+8. [Dialogflow Testing Tool](https://github.com/matthew-trump/dialogflow-testing-tool)
+9. [Flight Tracker Admin](https://github.com/matthew-trump/flight-tracker-admin)
+10. [Flight in the Sky](https://github.com/matthew-trump/flight-in-the-sky)
+11. [JWT Minimalist Angular](https://github.com/matthew-trump/jwt-minimalist-angular)
+12. [Speech Recognition Angular](https://github.com/matthew-trump/speech-recognition-angular)
+13. [Speech Synthesis Angular](https://github.com/matthew-trump/speech-synthesis-angular)
+14. [Welcome to My Portfolio](https://github.com/matthew-trump/welcome-to-my-portfolio)
 
 ### Node Express apps
 
