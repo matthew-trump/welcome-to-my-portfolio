@@ -13,19 +13,19 @@ Moreover, many of the backend node express projects contain configurations and t
 
 ### Angular 2+ apps
 
-*[Angular Authenticated](https://github.com/matthew-trump/angular-authenticated)
-*[Angular Database Manager](https://github.com/matthew-trump/angular-database-manager)
-*[Angular Firestore Auth](https://github.com/matthew-trump/angular-firestore-auth)
-*[Angular FX Lab](https://github.com/matthew-trump/angular-fx-lab)
-*[Angular-within-Angular](https://github.com/matthew-trump/angular-within-angular)
-*[Angular-within-Angular Inner App](https://github.com/matthew-trump/angular-within-angular-inner-app)
-*[Audio Recording Angular](https://github.com/matthew-trump/audio-recording-angular)
-*[Dialogflow Testing Tool](https://github.com/matthew-trump/dialogflow-testing-tool)
-*[Flight Tracker Admin](https://github.com/matthew-trump/flight-tracker-admin)
-*[Flight in the Sky](https://github.com/matthew-trump/flight-in-the-sky)
-*[JWT Minimalist Angular](https://github.com/matthew-trump/jwt-minimalist-angular)
-*[Speech Recognition Angular](https://github.com/matthew-trump/speech-recognition-angular)
-*[Speech Synthesis Angular](https://github.com/matthew-trump/speech-synthesis-angular)
+1.[Angular Authenticated](https://github.com/matthew-trump/angular-authenticated)
+2.[Angular Database Manager](https://github.com/matthew-trump/angular-database-manager)
+3.[Angular Firestore Auth](https://github.com/matthew-trump/angular-firestore-auth)
+4.[Angular FX Lab](https://github.com/matthew-trump/angular-fx-lab)
+5.[Angular-within-Angular](https://github.com/matthew-trump/angular-within-angular)
+6.[Angular-within-Angular Inner App](https://github.com/matthew-trump/angular-within-angular-inner-app)
+7.[Audio Recording Angular](https://github.com/matthew-trump/audio-recording-angular)
+8.[Dialogflow Testing Tool](https://github.com/matthew-trump/dialogflow-testing-tool)
+9.[Flight Tracker Admin](https://github.com/matthew-trump/flight-tracker-admin)
+10.[Flight in the Sky](https://github.com/matthew-trump/flight-in-the-sky)
+11.[JWT Minimalist Angular](https://github.com/matthew-trump/jwt-minimalist-angular)
+12.[Speech Recognition Angular](https://github.com/matthew-trump/speech-recognition-angular)
+13.[Speech Synthesis Angular](https://github.com/matthew-trump/speech-synthesis-angular)
 *[Welcome to My Portfolio](https://github.com/matthew-trump/welcome-to-my-portfolio)
 
 ### Node Express apps
